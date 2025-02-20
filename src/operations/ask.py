@@ -1,4 +1,4 @@
-from api import execute_prompt
+from src.api import execute_prompt
 
 
 class LLMAsker:

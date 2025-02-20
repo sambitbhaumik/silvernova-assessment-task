@@ -1,5 +1,5 @@
 from typing import List
-from api import embed_texts
+from src.api import embed_texts
 import logging
 
 logger = logging.getLogger('embed')

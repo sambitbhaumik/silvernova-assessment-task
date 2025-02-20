@@ -22,7 +22,7 @@ Try to answer as thruthfully as possible.
 
 Your task is to build a very simple [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) that is able to answer questions on the provided demo documents. The documents represent what a lawyer will be working with on a day-to-day basis - although some will be harder to parse than others.
 
-The final application should provide an interface to talk to the assistant about the documents, ask questions, and retreive facts. For a lawyer's job it's important that every piece of information they work with should be backed by sources, so every answer should be as specific as possible, pointing not only to the source document, but ideally to the sentence or paragraph where the information is located.
+> The final application should provide an interface to talk to the assistant about the documents, ask questions, and retreive facts. For a lawyer's  job it's important that every piece of information they work with should be backed by sources, so every answer should be as specific as possible, pointing not only to the source document, but ideally to the sentence or paragraph where the information is located.
 
 This repository already has a basic structure to help you get started and point you in the right direction. Your tasks are to:
 

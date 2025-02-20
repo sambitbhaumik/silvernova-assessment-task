@@ -1,6 +1,6 @@
 # Silvernova Assessment Task
 
-Thank you for applying for a job at [silvernova](https://silvernova.ai). We are excited to talk to you about working together.
+Thank you for applying for a job at **silvernova**. We are excited to talk to you about working together.
 
 We at silvernova think that creativity and new solutions when developing are hindered by a time constraint. Coding interviews can thus misrepresent your true skills. This is why we are using an asynchronous asseesment task concept. This task will help us understand how you go about solving problems without having to breathe down your neck. 😉
 
